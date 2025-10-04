@@ -1,0 +1,26 @@
+export const strings = {
+  en: {
+    appTitle: 'Solapur Municipal Corporation – Work Management System',
+    adminLogin: 'Admin Login',
+    username: 'Username',
+    password: 'Password',
+    login: 'Login',
+    forgot: 'Forgot Password?',
+    english: 'English',
+    marathi: 'मराठी',
+    uploadExcel: 'Upload Excel',
+    search: 'Search',
+  },
+  mr: {
+    appTitle: 'सोलापूर महानगरपालिका – कार्य व्यवस्थापन प्रणाली',
+    adminLogin: 'प्रशासक लॉगिन',
+    username: 'वापरकर्तानाव',
+    password: 'संकेतशब्द',
+    login: 'लॉगिन',
+    forgot: 'पासवर्ड विसरलात?',
+    english: 'English',
+    marathi: 'मराठी',
+    uploadExcel: 'एक्सेल अपलोड',
+    search: 'शोधा',
+  },
+};
