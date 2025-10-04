@@ -1,0 +1,28 @@
+{
+  "name": "solapur-municipal-corporation",
+  "version": "1.0.0",
+  "description": "Work Management System for Solapur Municipal Corporation",
+  "main": "index.js",
+  "scripts": {
+    "setup": "./setup.sh",
+    "start": "./start.sh",
+    "backend": "cd backend && npm start",
+    "frontend": "cd frontend && npm start",
+    "backend:dev": "cd backend && npm run dev",
+    "install-all": "cd backend && npm install && cd ../frontend && npm install",
+    "build": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "municipal",
+    "work-management",
+    "solapur",
+    "excel",
+    "dashboard"
+  ],
+  "author": "Solapur Municipal Corporation",
+  "license": "PROPRIETARY",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-org/solapur-municipal"
+  }
+}
